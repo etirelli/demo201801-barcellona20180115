@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myteam</groupId>
-  <artifactId>barcellona20180115</artifactId>
+  <artifactId>fsi</artifactId>
   <version>1.0.0</version>
-  <name>barcellona20180115</name>
+  <name>fsi</name>
   <packaging>kjar</packaging>
   <description></description>
  
